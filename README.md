@@ -1,51 +1,38 @@
-# Hi there, I'm Mohit Sahu 👋
+# Hey 👋, I'm Mohit Sahu
 
-**Java Backend Engineer** specialized in designing resilient microservices, high-throughput distributed systems, and clean RESTful APIs. Passionate about domain-driven design, event-driven architecture, and database optimization.
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohit1221)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-sahu-766735205)
 
----
+## Glad to see you here!
 
-### 🚀 What I'm Focused On
-- 🔭 Building scalable microservices using **Spring Boot** and **Apache Kafka**.
-- ⚙️ Optimizing PostgreSQL and Redis querying and caching strategies.
-- 💬 Ask me about **Java/JVM internals**, **concurrency**, or **system design**.
-- 📫 Reach me at: **[mohitme1221gmail.com](mailto:mohitme1221gmail.com)**
+I am a passionate **Java Spring Boot** developer who enjoys building reliable backend services and turning business logic into clean, production-ready APIs.
 
----
+🚀 My journey in technology is driven by a simple goal: build systems that are solid, scalable, and easy to maintain. Whether it is designing REST APIs with Spring Boot, working with databases and services, or debugging a tricky production issue — I like shipping work that actually holds up.
 
-### 🛠️ Tech Stack & Tooling
+💻 When I'm not coding, you'll find me exploring Java and Spring ecosystem updates, reading about backend architecture, or sharpening problem-solving with data structures and algorithms.
 
-**Languages & Frameworks**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+✨ Here's what I bring to the table:
 
-**Databases & Caching**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+- ☕ Strong hands-on experience with **Java** and **Spring Boot** for backend development.
+- 🧩 Comfort with REST APIs, service layers, and clean application structure.
+- 🗄️ Working knowledge of databases, integrations, and real-world backend flows.
+- 📊 A solid foundation in data structures and algorithms for efficient problem-solving.
+- 🌐 A habit of learning continuously and staying current with backend tech.
 
-**Messaging & Streaming**  
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+🤝 Let's connect and collaborate! If you want to talk Java, Spring Boot, backend design, or just geek out about building software, feel free to reach out.
 
-**DevOps, Cloud & Infrastructure**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+📫 Reach me at: [mohitme1221@gmail.com](mailto:mohitme1221@gmail.com)
 
----
+## Rapidfire
 
-### 📊 GitHub Analytics
+> ❓ Ask me about anything related to Java, Spring Boot, and backend development
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR-USERNAME>&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR-USERNAME>&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
+> ⚡ Fun fact: I enjoy turning complex backend problems into simple, working solutions.
+
+## Languages and Tools
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql,postgres,git,github,docker,linux,intellij,postman,vscode,aws" alt="Languages and Tools" />
+  </a>
 </p>
-
----
-
-### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-sahu-766735205)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/dead_counter_/)
