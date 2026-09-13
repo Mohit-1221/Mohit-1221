@@ -47,6 +47,5 @@
 ---
 
 ### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/<YOUR-LINKEDIN>)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=google-chrome&logoColor=white)](https://<YOUR-PORTFOLIO-URL>)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/<YOUR-LEETCODE>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-sahu-766735205)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/dead_counter_/)
